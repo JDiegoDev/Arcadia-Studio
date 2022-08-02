@@ -1,0 +1,22 @@
+{
+  "name": "arcadiastudio",
+  "version": "1.0.0",
+  "description": "Architecture Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JDiegoDev/Arcadia-Studio.git"
+  },
+  "author": "Juan Diego Gimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDiegoDev/Arcadia-Studio/issues"
+  },
+  "homepage": "https://github.com/JDiegoDev/Arcadia-Studio#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
